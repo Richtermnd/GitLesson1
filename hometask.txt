@@ -1,0 +1,18 @@
+В ветке master присутсвует у человечка есть только шляпа, когда в demo есть и шляпа, и ботинки и пуговицы.
+Так же в README в ветке demo отсутсвуют упоминания о пуговицах.
+
+7 коммитов в ветке boots_buttons
+    1) init
+    2) boots
+    3) README added
+    4) dots
+    5) fix readme
+    6) Merge branch 'boots' into boots_buttons - мой коммит
+    7) Merge branch 'buttons' into boots_buttons - мой коммит
+
+5 коммитов в ветке master
+    1) init
+    2) heat added
+    3) README added
+    4) fix readme
+    5) Merge remote-tracking branch 'origin/hat' - мой коммит
